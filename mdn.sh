@@ -8,7 +8,7 @@ wget https://github.com/MysteriumNetwork/node/releases/download/0.0.6/mysterium-
 wget https://github.com/MysteriumNetwork/node/releases/download/0.0.6/mysterium-node_linux_amd64.deb
 
 # Prerequisites
-apt-get -y isntall openvpn
+apt-get -y install openvpn
 
 # Install Node and Client
 dpkg --install mysterium-node_linux_amd64.deb
