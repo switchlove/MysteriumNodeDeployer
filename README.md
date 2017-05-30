@@ -2,7 +2,7 @@
 Auto deploy Mysterium test nodes
 
 Usage:
-- apt-get install git
+- apt-get update && apt-get install git -y
 - git clone https://github.com/switchlove/MysteriumNodeDeployer.git
 - sh ./mdn.sh
 
